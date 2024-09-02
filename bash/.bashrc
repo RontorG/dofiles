@@ -19,4 +19,4 @@ set -o vi
 # Aliases
 alias ls='ls --color=auto'
 alias cp='cp -i'
-alias mv='cp -i'
+alias mv='mv -i'
